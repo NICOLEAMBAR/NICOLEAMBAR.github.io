@@ -1,0 +1,13 @@
+#barra{
+    margin: 1% 1%;
+    column-count: 2;   
+}
+.subtitulo{
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+}
+.texto{
+    text-align: justify;
+    font-size: 24px;
+}

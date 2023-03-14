@@ -1,0 +1,20 @@
+#titulo{
+    text-align: center;
+    color:burlywood;
+    font-size:40px;
+    font-family:sans-serif; 
+}
+.texto{
+    text-align: justify;
+    font-family: serif;
+    font-size: 26px 
+}
+.capacitacion{
+    background-color:bisque;
+    font-size: 30px
+}
+.imagenes img{
+    float: center;
+    border: ridge 10px;
+    border-color:blanchedalmond;
+}

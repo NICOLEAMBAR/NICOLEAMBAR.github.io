@@ -1,0 +1,27 @@
+#titulo{
+    text-align: center;
+    font-size: 45px;
+    color:darkcyan;
+}
+.subtitulo{
+    background-color: cornsilk;
+    text-align: left;
+    font-size: 30px;
+}
+.texto{
+    position: relative;
+    width: 60%;
+    text-align: justify;
+    font-size: 24px;
+}
+figure{
+    height:40vh;
+    position: relative;
+    top: -100px
+}
+.imagenes{
+    aspect-ratio: 16/9;
+ width: 30%;
+    transform: translateY(-40%);
+    float: right;
+}
